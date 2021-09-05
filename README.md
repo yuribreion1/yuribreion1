@@ -1,10 +1,6 @@
 ### Hi there 👋
 
-💬   About me
-
-I'm Yuri, Business Analyst powered by development skills earned during the road. I'm glad to see you here. I like server side technologies and you'll see many of them here, with different languages. 
-
-📫   How to reach me: yuribreion@gmail.com
+I'm Yuri, brazillian Business Analyst powered by development skills earned during the road. I'm glad to see you here. I like server side technologies and you'll see many of them here, with different languages. 
 
 <img align="center" height="250" width="400" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/code.gif">
 
