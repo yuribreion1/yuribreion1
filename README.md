@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-I'm glad to see you here, you're more than welcome to check out the repositories available here. 
+I'm Yuri, Business Analyst powered by development skills earned during the road. I'm glad to see you here, you're more than welcome to check out the repositories available here. I really like server side technologies and you'll see many of them here, with different languages. 
+
+[coding](https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/code.gif)
 
 ![yuribreion1's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuribreion1&show_icons=true&theme=radical)
 
 ## Top languages
 
-I really like server side technologies and you'll see many of them here, with different languages. 
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuribreion1)](https://github.com/yuribreion1?tab=repositories)
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yuribreion1)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
