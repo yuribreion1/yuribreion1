@@ -2,7 +2,7 @@
 
 I'm Yuri, brazillian Business Analyst powered by development skills earned during the road. I'm glad to see you here. I like server side technologies and you'll see many of them here, with different languages. 
 
-<img align="center" height="350" width="600" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/code.gif">
+<img align="center" height="450" width="600" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/code.gif">
 
 ## My stats
 
