@@ -81,13 +81,17 @@ const config: Config = {
         src: 'favicons/favicon-32x32.png',
       },
       items: [
+        // {
+        //   type: 'docSidebar',
+        //   sidebarId: 'sidebar',
+        //   position: 'left',
+        //   label: 'Documents',
+        // },
         {
-          type: 'docSidebar',
-          sidebarId: 'tutorialSidebar',
+          to: 'docs/category/technology',
           position: 'left',
-          label: 'Tutorial',
+          label: 'Technology',
         },
-        {to: '/blog', label: 'Blog', position: 'left'},
         {
           href: 'https://github.com/yuribreion1',
           label: 'GitHub',
@@ -102,8 +106,8 @@ const config: Config = {
           title: 'Docs',
           items: [
             {
-              label: 'Tutorial',
-              to: '/docs/intro',
+              label: 'About',
+              to: '/docs/about',
             },
           ],
         },
@@ -119,10 +123,6 @@ const config: Config = {
         {
           title: 'More',
           items: [
-            {
-              label: 'Blog',
-              to: '/blog',
-            },
             {
               label: 'GitHub',
               href: 'https://github.com/yuribreion1',
