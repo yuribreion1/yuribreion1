@@ -11,4 +11,3 @@ I'm Yuri, Brazilian Senior IT-Analyst powered by development skills earned durin
 ## Top languages
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yuribreion1)](https://github.com/yuribreion1?tab=repositories)
-
